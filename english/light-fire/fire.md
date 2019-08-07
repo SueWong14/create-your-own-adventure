@@ -31,7 +31,7 @@ There is no conflict！
 
 [Succumb to your marshmallow-y grave!](succumb/game-over.md)
 
-[Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
+[Turn on the white chocolate sprinkler!](sprinkler/eating-chocolate.md)
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
 
